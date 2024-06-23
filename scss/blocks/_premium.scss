@@ -1,0 +1,54 @@
+.premium__card-img {
+  display: flex;
+  width: 470px;
+  gap: 20px;
+}
+.premium__wrapper {
+  display: flex;
+  justify-content: space-between;
+  gap: 20px;
+}
+.premium__card-right {
+  padding-left: 60px;
+}
+.premium {
+  margin-bottom: 130px;
+}
+.premium__img-mr {
+  margin-top: 15.8px;
+}
+.premium__offer-text {
+  font-family: "Karla";
+  font-size: 12px;
+  font-weight: 400;
+  line-height: 18px;
+  letter-spacing: 2px;
+  color: #1d1f2e;
+  margin-bottom: 14px;
+}
+.premium__right-title {
+  font-family: "Karla";
+  font-size: 36px;
+  font-weight: 400;
+  line-height: 50px;
+  color: #1d1f2e;
+  margin-bottom: 15px;
+}
+.premium__card-description {
+  font-family: "Karla";
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 28px;
+  color: #1d1f2eb2;
+  margin-bottom: 25px;
+}
+.btn {
+  background-color: #1d1f2e;
+  color: #ffffff;
+  font-family: "Karla";
+  font-size: 12px;
+  font-weight: 400;
+  line-height: 18px;
+  letter-spacing: 2px;
+  padding: 9px 24px 9px 24px;
+}

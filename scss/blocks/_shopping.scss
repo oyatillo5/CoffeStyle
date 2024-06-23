@@ -1,0 +1,30 @@
+.shopping {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: 8px;
+}
+.shopping__card {
+  text-align: center;
+}
+.shopping__title {
+  font-family: "Karla";
+  font-size: 20px;
+  font-weight: 400;
+  line-height: 30px;
+  color: #1d1f2e;
+}
+.shopping__sum {
+  font-family: "Karla";
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 28px;
+  color: #1d1f2e66;
+}
+.shopping__sum-b {
+  font-family: "Karla";
+  font-size: 19px;
+  font-weight: 400;
+  line-height: 32px;
+  color: #a25f4b;
+}

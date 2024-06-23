@@ -11,7 +11,7 @@
 }
 
 .container {
-  width: 940px;
+  width: 960px;
   margin: 0 auto;
   padding: 0 20px;
 }
@@ -185,4 +185,191 @@
   line-height: 32px;
   text-align: center;
   color: #a25f4b;
+}
+
+.shopping {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: 8px;
+}
+
+.shopping__card {
+  text-align: center;
+}
+
+.shopping__title {
+  font-family: "Karla";
+  font-size: 20px;
+  font-weight: 400;
+  line-height: 30px;
+  color: #1d1f2e;
+}
+
+.shopping__sum {
+  font-family: "Karla";
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 28px;
+  color: rgba(29, 31, 46, 0.4);
+}
+
+.shopping__sum-b {
+  font-family: "Karla";
+  font-size: 19px;
+  font-weight: 400;
+  line-height: 32px;
+  color: #a25f4b;
+}
+
+.premium__card-img {
+  display: flex;
+  width: 470px;
+  gap: 20px;
+}
+
+.premium__wrapper {
+  display: flex;
+  justify-content: space-between;
+  gap: 20px;
+}
+
+.premium__card-right {
+  padding-left: 60px;
+}
+
+.premium {
+  margin-bottom: 130px;
+}
+
+.premium__img-mr {
+  margin-top: 15.8px;
+}
+
+.premium__offer-text {
+  font-family: "Karla";
+  font-size: 12px;
+  font-weight: 400;
+  line-height: 18px;
+  letter-spacing: 2px;
+  color: #1d1f2e;
+  margin-bottom: 14px;
+}
+
+.premium__right-title {
+  font-family: "Karla";
+  font-size: 36px;
+  font-weight: 400;
+  line-height: 50px;
+  color: #1d1f2e;
+  margin-bottom: 15px;
+}
+
+.premium__card-description {
+  font-family: "Karla";
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 28px;
+  color: rgba(29, 31, 46, 0.6980392157);
+  margin-bottom: 25px;
+}
+
+.btn {
+  background-color: #1d1f2e;
+  color: #ffffff;
+  font-family: "Karla";
+  font-size: 12px;
+  font-weight: 400;
+  line-height: 18px;
+  letter-spacing: 2px;
+  padding: 9px 24px 9px 24px;
+}
+
+.bg {
+  text-align: center;
+  margin-bottom: 100px;
+}
+
+.stories__card {
+  display: flex;
+  justify-content: space-between;
+  gap: 20px;
+}
+
+.stories__card-title {
+  font-family: "Karla";
+  font-size: 20px;
+  font-weight: 400;
+  line-height: 32px;
+  color: #1d1f2e;
+  margin-bottom: 14px;
+  margin-top: 24px;
+}
+
+.stories__description {
+  font-family: "Karla";
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 28px;
+  color: rgba(29, 31, 46, 0.6980392157);
+}
+
+.stories__date {
+  font-family: "Karla";
+  font-size: 12px;
+  font-weight: 400;
+  line-height: 18px;
+  letter-spacing: 2px;
+  margin-top: 16px;
+  color: #1d1f2e;
+}
+
+.stories__card-box {
+  width: 300px;
+}
+
+.updates-text {
+  font-family: "Karla";
+  font-size: 12px;
+  font-weight: 400;
+  line-height: 18px;
+  letter-spacing: 2px;
+  color: #fff;
+  margin-bottom: 15px;
+}
+
+.updates__title {
+  font-family: "Karla";
+  font-size: 36px;
+  font-weight: 400;
+  line-height: 50px;
+  margin-bottom: 25px;
+  color: #ffffff;
+}
+
+.updates {
+  margin-top: 152px;
+  padding: 80px;
+  background-color: #1d1f2e;
+}
+
+.updates__wrapper {
+  text-align: center;
+}
+
+.updates__inp {
+  padding: 18px 40px;
+  border: 1px #2f303e solid;
+  background-color: #1d1f2e;
+}
+
+.updates__btn {
+  padding: 15.7px 25px;
+  font-family: "Karla";
+  font-size: 12px;
+  margin-left: 10px;
+  font-weight: 400;
+  line-height: 18px;
+  letter-spacing: 2px;
+  text-transform: uppercase;
 }/*# sourceMappingURL=main.css.map */
